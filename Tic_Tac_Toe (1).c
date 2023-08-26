@@ -287,7 +287,7 @@ void fillMark()
         for(col = 0 ; col < 3 ; col++)
         {
             // Formula used to find the place.
-            // How this formula comes will be explained in class
+
             place = ((row * 3) + (col +1));
 
             // checking the choice and place is empty or not
